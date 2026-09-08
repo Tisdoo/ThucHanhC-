@@ -1,0 +1,14 @@
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\Bai2.AssemblyInfoInputs.cache
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\Bai2.AssemblyInfo.cs
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\Bai2.csproj.CoreCompileInputs.cache
+D:\baitap\Nam3\C#\Buoi1\Bai2\bin\Debug\net10.0\Bai2.exe
+D:\baitap\Nam3\C#\Buoi1\Bai2\bin\Debug\net10.0\Bai2.deps.json
+D:\baitap\Nam3\C#\Buoi1\Bai2\bin\Debug\net10.0\Bai2.runtimeconfig.json
+D:\baitap\Nam3\C#\Buoi1\Bai2\bin\Debug\net10.0\Bai2.dll
+D:\baitap\Nam3\C#\Buoi1\Bai2\bin\Debug\net10.0\Bai2.pdb
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\Bai2.dll
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\refint\Bai2.dll
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\Bai2.pdb
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\Bai2.genruntimeconfig.cache
+D:\baitap\Nam3\C#\Buoi1\Bai2\obj\Debug\net10.0\ref\Bai2.dll

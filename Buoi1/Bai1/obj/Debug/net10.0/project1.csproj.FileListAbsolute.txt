@@ -1,0 +1,14 @@
+D:\baitap\Nam3\C#\Buoi1\project1\bin\Debug\net10.0\project1.exe
+D:\baitap\Nam3\C#\Buoi1\project1\bin\Debug\net10.0\project1.deps.json
+D:\baitap\Nam3\C#\Buoi1\project1\bin\Debug\net10.0\project1.runtimeconfig.json
+D:\baitap\Nam3\C#\Buoi1\project1\bin\Debug\net10.0\project1.dll
+D:\baitap\Nam3\C#\Buoi1\project1\bin\Debug\net10.0\project1.pdb
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\project1.AssemblyInfoInputs.cache
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\project1.AssemblyInfo.cs
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\project1.csproj.CoreCompileInputs.cache
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\project1.dll
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\refint\project1.dll
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\project1.pdb
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\project1.genruntimeconfig.cache
+D:\baitap\Nam3\C#\Buoi1\project1\obj\Debug\net10.0\ref\project1.dll
