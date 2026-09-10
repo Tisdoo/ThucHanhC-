@@ -1,0 +1,15 @@
+/workspaces/ThucHanhC-/Buoi1/Bai6/bin/Debug/net10.0/Bai6
+/workspaces/ThucHanhC-/Buoi1/Bai6/bin/Debug/net10.0/Bai6.deps.json
+/workspaces/ThucHanhC-/Buoi1/Bai6/bin/Debug/net10.0/Bai6.runtimeconfig.json
+/workspaces/ThucHanhC-/Buoi1/Bai6/bin/Debug/net10.0/Bai6.dll
+/workspaces/ThucHanhC-/Buoi1/Bai6/bin/Debug/net10.0/Bai6.pdb
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/Bai6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/Bai6.AssemblyInfoInputs.cache
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/Bai6.AssemblyInfo.cs
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/Bai6.csproj.CoreCompileInputs.cache
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/Bai6.sourcelink.json
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/Bai6.dll
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/refint/Bai6.dll
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/Bai6.pdb
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/Bai6.genruntimeconfig.cache
+/workspaces/ThucHanhC-/Buoi1/Bai6/obj/Debug/net10.0/ref/Bai6.dll
