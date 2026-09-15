@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\baitap\\Nam3\\C#\\Buoi1\\Bai2\\Bai2.csproj": {}
+    "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai2\\Bai2.csproj": {}
   },
   "projects": {
-    "D:\\baitap\\Nam3\\C#\\Buoi1\\Bai2\\Bai2.csproj": {
+    "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai2\\Bai2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\baitap\\Nam3\\C#\\Buoi1\\Bai2\\Bai2.csproj",
+        "projectUniqueName": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai2\\Bai2.csproj",
         "projectName": "Bai2",
-        "projectPath": "D:\\baitap\\Nam3\\C#\\Buoi1\\Bai2\\Bai2.csproj",
+        "projectPath": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai2\\Bai2.csproj",
         "packagesPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\.nuget\\packages\\",
-        "outputPath": "D:\\baitap\\Nam3\\C#\\Buoi1\\Bai2\\obj\\",
+        "outputPath": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC.DESKTOP-85V5Q0S\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

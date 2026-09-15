@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ThucHanhC-/Buoi1/Bai5/Bai5.csproj": {}
+    "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai5\\Bai5.csproj": {}
   },
   "projects": {
-    "/workspaces/ThucHanhC-/Buoi1/Bai5/Bai5.csproj": {
+    "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai5\\Bai5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ThucHanhC-/Buoi1/Bai5/Bai5.csproj",
+        "projectUniqueName": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai5\\Bai5.csproj",
         "projectName": "Bai5",
-        "projectPath": "/workspaces/ThucHanhC-/Buoi1/Bai5/Bai5.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ThucHanhC-/Buoi1/Bai5/obj/",
+        "projectPath": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai5\\Bai5.csproj",
+        "packagesPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\.nuget\\packages\\",
+        "outputPath": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi1\\Bai5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PC.DESKTOP-85V5Q0S\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

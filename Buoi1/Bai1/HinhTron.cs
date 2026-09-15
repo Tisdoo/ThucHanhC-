@@ -7,6 +7,7 @@ class HinhTron
         Console.WriteLine("Nhap ban kinh hinh tron:");
         double r = double.Parse(Console.ReadLine());
         Console.WriteLine("Dien tich hinh tron la: " + (Math.PI * r * r));
+        Console.WriteLine("Chu vi hinh tron la: " + (2 * Math.PI * r));
         
     }
 }
