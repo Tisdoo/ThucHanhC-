@@ -1,0 +1,14 @@
+D:\baitap\Nam3\C#\Tuan2\Bai10\bin\Debug\net10.0\Bai10.exe
+D:\baitap\Nam3\C#\Tuan2\Bai10\bin\Debug\net10.0\Bai10.deps.json
+D:\baitap\Nam3\C#\Tuan2\Bai10\bin\Debug\net10.0\Bai10.runtimeconfig.json
+D:\baitap\Nam3\C#\Tuan2\Bai10\bin\Debug\net10.0\Bai10.dll
+D:\baitap\Nam3\C#\Tuan2\Bai10\bin\Debug\net10.0\Bai10.pdb
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\Bai10.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\Bai10.AssemblyInfoInputs.cache
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\Bai10.AssemblyInfo.cs
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\Bai10.csproj.CoreCompileInputs.cache
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\Bai10.dll
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\refint\Bai10.dll
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\Bai10.pdb
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\Bai10.genruntimeconfig.cache
+D:\baitap\Nam3\C#\Tuan2\Bai10\obj\Debug\net10.0\ref\Bai10.dll

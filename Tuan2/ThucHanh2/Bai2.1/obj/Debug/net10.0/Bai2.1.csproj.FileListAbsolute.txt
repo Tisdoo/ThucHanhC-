@@ -1,0 +1,4 @@
+D:\baitap\Nam3\C#\Tuan2\ThucHanh2\Bai2.1\obj\Debug\net10.0\Bai2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\baitap\Nam3\C#\Tuan2\ThucHanh2\Bai2.1\obj\Debug\net10.0\Bai2.1.AssemblyInfoInputs.cache
+D:\baitap\Nam3\C#\Tuan2\ThucHanh2\Bai2.1\obj\Debug\net10.0\Bai2.1.AssemblyInfo.cs
+D:\baitap\Nam3\C#\Tuan2\ThucHanh2\Bai2.1\obj\Debug\net10.0\Bai2.1.csproj.CoreCompileInputs.cache

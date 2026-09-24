@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\Bai1.csproj": {}
+    "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\Bai1.csproj": {}
   },
   "projects": {
-    "d:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\Bai1.csproj": {
+    "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\Bai1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\Bai1.csproj",
+        "projectUniqueName": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\Bai1.csproj",
         "projectName": "Bai1",
-        "projectPath": "d:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\Bai1.csproj",
+        "projectPath": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\Bai1.csproj",
         "packagesPath": "C:\\Users\\PC.DESKTOP-85V5Q0S\\.nuget\\packages\\",
-        "outputPath": "d:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\obj\\",
+        "outputPath": "D:\\baitap\\Nam3\\C#\\ThucHanhC-\\Buoi12\\Bai1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC.DESKTOP-85V5Q0S\\AppData\\Roaming\\NuGet\\NuGet.Config",
